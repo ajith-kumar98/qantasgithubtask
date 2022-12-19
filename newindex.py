@@ -1,2 +1,2 @@
 name = str(input("What is your Name: "))
-printf("I am {name}")
+print(f"I am {name}")
